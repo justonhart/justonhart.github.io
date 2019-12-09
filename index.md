@@ -1,2 +1,2 @@
-##Breaking News
-*Gage* sucks
+# Breaking News
+**Gage sucks**
