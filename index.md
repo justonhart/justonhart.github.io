@@ -1,2 +1,1 @@
-# Breaking News
-**Gage sucks**
+**Garrett sucks**
